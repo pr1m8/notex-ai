@@ -34,12 +34,12 @@
 
 ### **1️⃣ Install via Pip**
 ```sh
-pip install notex
+pip install notex_ai
 ```
 
 ### **2️⃣ Install via Poetry**
 ```sh
-poetry add notex
+poetry add notex_ai
 ```
 
 ### **3️⃣ Install from Source**
